@@ -1,5 +1,5 @@
 # ins_downloader
- download ins pics and videos by username  
+ download instagram pics and videos by username  
 通过用户名下载该用户全部图片和视频
 
 ## packages
