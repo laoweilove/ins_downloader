@@ -12,3 +12,10 @@ pyaria2
 - `python3 newins.py` 来运行程序
 - 输入你心仪的女神的用户名
 - 开始使用aria2下载
+
+## 2022.9.28 更新
+使用httpx 替换requests  
+使用loger替换print输出  
+使用yaml进行配置  
+增加tqdm进度条  
+
